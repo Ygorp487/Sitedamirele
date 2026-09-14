@@ -16,3 +16,5 @@ npm run dev
 - React
 - Tailwind CSS
 - Supabase
+
+> Sincronização GitHub ↔ Lovable validada a partir deste repositório.
