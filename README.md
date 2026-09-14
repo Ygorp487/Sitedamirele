@@ -18,3 +18,5 @@ npm run dev
 - Supabase
 
 > Sincronização GitHub ↔ Lovable validada a partir deste repositório.
+
+> Commit de teste criado após a conexão do projeto no Lovable em 14/09/2026.
